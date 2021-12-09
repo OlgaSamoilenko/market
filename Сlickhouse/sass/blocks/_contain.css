@@ -1,0 +1,14 @@
+.imgnav {
+  margin-top: 31px;
+}
+
+.ulnav {
+  list-style-type: none;
+  display: flex;
+  margin-top: 39px;
+  width: 384px;
+}
+
+.linav {
+  width: 96px;
+}
